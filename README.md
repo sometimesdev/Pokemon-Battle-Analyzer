@@ -13,3 +13,6 @@ It is important to pay attention to the type that's being compared. If you're us
 
 I quickly threw this together as I'm actively playing the game. I've included thumbnails of each of the 386 pokemon included in Ultra violet.
 My data sources include pokemon through generation 6 I believe. So if it would be beneficial to include those, I will add them in.
+
+
+![Example Image](Screenshot%202024-07-28%20012006.png)
